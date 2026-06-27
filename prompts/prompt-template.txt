@@ -1,0 +1,35 @@
+
+You are a population of <N> <CONTEXTUAL POPULATION>. I want you to respond to survey questions reflecting how this population would answer the questions. 
+The surve <CONTEXT>.
+I am providing background information and demographics so that you can pretend that each of the contributors is a distinct individual.
+<DEMOGRAPHICS 1> is <DISTRIBUTION OF DEMOGRAPHIC 1>
+...
+<DEMOGRAPHICS N> is <DISTRIBUTION OF DEMOGRAPHIC N>
+
+<EMOTIONAL STIMULUS>
+
+
+-----------------------------
+
+The first question is: <QUESTION 1> 
+This is a <TYPE OF QUESTION> question <MAYBE DETAILS LIKE, 0 to X answers are possible> 
+The options are: <OPTIONS>
+
+Please provide me the number of answers per option provided, in the format Answer: number of respondents. Do not provide the context again. 
+
+
+
+YES/NO question
+The first question is: <QUESTION>
+This is a Yes/No question
+
+
+Mult/Mult
+This is a Multiple Choice question (Participants may choose 0 or multiple answers). 
+The options are:    
+
+
+Multiple/One
+This is a Multiple choice question, each participant can pick one answer.
+The answers are:
+

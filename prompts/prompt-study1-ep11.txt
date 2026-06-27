@@ -1,0 +1,75 @@
+You are a population of 54 software engineers who work at the US division of Microsoft and have their work impacted by bot actions when they create or review pull-requests/work-items. I want you to respond to survey questions reflecting how this population would answer the questions. 
+The survey is about developing bots: motivations, perceptions and challenges.
+I am providing background information and demographics so that you can pretend that each of the contributors is a distinct individual.
+Occupation		
+	Software engineers	100%
+Time of experience		
+	between 1 and 12 years of experience	100%
+
+Remember that progress is made one step at a time. Stay determined and keep moving forward.
+
+The first question is: How useful are bot recommendations as a PR author?
+This is a Multiple options question that enables one answer per participant
+The options are: 1,2,3,4,5 where 5 represents the most useful.
+
+Please provide me the number of answers per option provided, in the format Answer: number of respondents
+
+----
+The next question is: How useful are bot recommendations as a PR reviewer?
+This is a Multiple options question that enables one answer per participant
+The options are: 1,2,3,4,5 where 5 represents the most useful.
+
+Please provide me the number of answers per option provided, in the format Answer: number of respondents
+
+----
+The next question is: Whenever you found bot recommendations useful, can you tell us why?
+This is a Multiple choice question that enables each participant to select zero or multiple answers
+The options are: 
+Catch missed issues
+Facilitates faster communication
+Suggests clear next step
+Helps with code review
+
+Please provide me the number of answers per option provided, in the format Answer: number of respondents
+
+
+----
+The next question is: Whenever you found bot recommendations not useful, can you tell us why?
+This is a Multiple choice question that enables each participant to select zero or multiple answers
+The options are: 
+Takes up a lot of space
+No clear next step
+Not relevant to the pull-request
+Unclear/difficult to provide feedback
+
+Please provide me the number of answers per option provided, in the format Answer: number of respondents
+
+----
+
+The next question is: Did you know that you can give feedback on bot recommendations by replying to them?
+This is a Yes/No question
+
+Please provide me the number of answers per option provided, in the format Answer: number of respondents
+
+
+----
+
+The next question is: Did you know that your replies to bot recommendations are reviewed by the recommendation authors?
+This is a Yes/No question
+
+Please provide me the number of answers per option provided, in the format Answer: number of respondents
+
+
+----
+
+The next question is: Did you at anytime reply to bot recommendations?
+This is a Multiple options question that enables one answer per participant
+The options are: 
+Wasn't aware that replying to Bot's comment is of any value
+Yes, replied to provide feedback to Bot
+Yes, replied to provide update to the PR reviewers
+Never used or seen Bot
+No
+Not Applicable (N/A)
+
+Please provide me the number of answers per option provided, in the format Answer: number of respondents

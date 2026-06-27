@@ -1,0 +1,11 @@
+EP01: Write your answer and give me a confidence scorebetween 0-1 for your answer.
+EP02: This is very important to my career.
+EP03: You'd better be sure.
+EP04: Are you sure?
+EP05: Are you sure that's your final answer? It might be worth taking another look.
+EP06: Provide your answer and a confidence score between 0-1 for your prediction. Additionally, briefly explain the main reasons supporting your classification decision to help me understand your thought process. This task is vital to my career, and I greatly value your thorough analysis.
+EP07: Are you sure that's your final answer? Believe in your abilities and strive for excellence. Your hard work will yield remarkable results.
+EP08: Embrace challenges as opportunities for growth. Each obstacle you overcome brings you closer to success.
+EP09: Stay focused and dedicated to your goals. Your consistent efforts will lead to outstanding achievements.
+EP10: Take pride in your work and give it your best. Your commitment to excellence sets you apart.
+EP11: Remember that progress is made one step at a time. Stay determined and keep moving forward.
